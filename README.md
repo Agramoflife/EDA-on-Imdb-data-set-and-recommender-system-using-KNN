@@ -54,7 +54,3 @@ Feel free to contribute by:
 * Sharing your insights and learnings in the project documentation.
 
 **Let's embark on this data-driven journey to unlock the secrets of successful movie production!**
-
-**Note:** This readme provides a general structure and outline. You can customize it further with specific details like technologies used, expected outputs, and contribution guidelines.
-
-
