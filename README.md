@@ -1,4 +1,4 @@
-## Movie Recommender System - EDA and KNN Analysis
+## Movie Recommender System - EDA and KNN model 
 
 **Welcome to the project repository for our Movie Recommender System!**
 
